@@ -1,0 +1,7 @@
+*.pyc
+__pychace__
+myvenv
+myeven2
+venv2
+/static
+.DS_store
